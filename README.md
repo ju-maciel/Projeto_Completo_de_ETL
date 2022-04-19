@@ -21,16 +21,16 @@ análises, filtros no DataFrame, drop, exclusão de Nan).
 
 ### Etapas Nuvem GCP:</b>
 
-1°- Criação do Cluster (Cluster é um nó - uma máquina virtual).
+1° Criação do Cluster (Cluster é um nó - uma máquina virtual).
 
-2°- Criar instância do Cloud SQL.
+2° Criar instância do Cloud SQL.
 
-3°- Enviar todos os arquivos do projeto para o Bucket - Utilizando a ferramenta Cloud Storage.
+3° Enviar todos os arquivos do projeto para o Bucket - Utilizando a ferramenta Cloud Storage.
 
-4°- Realizar o 1º JOB - Inserção dos dados no BD Postgres.
+4° Realizar o 1º JOB - Inserção dos dados no BD Postgres.
 
-5°- Realizar o 2º JOB - Ler do Postgres e criar Parquet.
+5° Realizar o 2º JOB - Ler do Postgres e criar Parquet.
 
-6º- Criar instância do SGBD Cassandra.
+6º Criar instância do SGBD Cassandra.
 
-7°- Uso da IDE Jupyter na Nuvem para ler o Parquet e inserir no Cassandra e fazer a interação com os dados para gerar análises. 
+7° Uso da IDE Jupyter na Nuvem para ler o Parquet e inserir no Cassandra e fazer a interação com os dados para gerar análises. 
