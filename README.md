@@ -17,7 +17,7 @@ análises, filtros no DataFrame, drop, exclusão de Nan).
 
 6°- Migração dos dados inseridos no postgres já em Parquet para o banco de dados NoSQL Cassandra.
 
-### <b>Após a realizão do Projeto feito na minha máquina local realizei o processo todo na Nuvem Google Cloud.
+### <b>Após a realizão do Projeto feito em máquina local realizei o processo todo na Nuvem Google Cloud.
 
 ### Etapas Nuvem GCP:</b>
 
