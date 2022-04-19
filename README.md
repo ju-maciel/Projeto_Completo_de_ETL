@@ -1,6 +1,6 @@
 # Projeto Completo de ETL
 
-### <b>Projeto de extração, tratamento e carregamento de um dataset com 67.000 dados, utilizando PySpark e Google Cloud
+### <b>Projeto de extração, tratamento e carregamento de um dataset utilizando PySpark e Google Cloud
 
 ### Etapas na máquina local:</b>
 
