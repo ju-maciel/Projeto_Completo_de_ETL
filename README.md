@@ -4,18 +4,18 @@
 
 ### Etapas na máquina local:</b>
 
-1° - Extração do aquivo csv.
+1° Extração do aquivo csv.
 
-2° - Tratamento dos dados com as bibliotecas Pandas e Numpy (criação do DataFrame, normalizar nomenclatura das colunas, exclusão de caracteres indevidos, 
+2° Tratamento dos dados com as bibliotecas Pandas e Numpy (criação do DataFrame, normalizar nomenclatura das colunas, exclusão de caracteres indevidos, 
 análises, filtros no DataFrame, drop, exclusão de Nan). 
 
-3° - Criação dos Bancos de Dados: Postgres e Cassandra. 
+3° Criação dos Bancos de Dados: Postgres e Cassandra. 
 
-4° - Criação do código em Python para inserção dos dados no Postgres utilizando a biblioteca PSYCOPG2 para auxiliar o Python na conexão com o SGDB Postgres.
+4° Criação do código em Python para inserção dos dados no Postgres utilizando a biblioteca PSYCOPG2 para auxiliar o Python na conexão com o SGDB Postgres.
 
-5° - Criação do Parquet utilizando o framework PySpark com o auxilio do conector JDBC.
+5° Criação do Parquet utilizando o framework PySpark com o auxilio do conector JDBC.
 
-6° - Migração dos dados inseridos no postgres já em Parquet para o banco de dados NoSQL Cassandra.
+6° Migração dos dados inseridos no postgres já em Parquet para o banco de dados NoSQL Cassandra.
 
 ### <b>Após a realizão do Projeto feito na minha máquina local realizei o processo todo na Nuvem Google Cloud.
 
